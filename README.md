@@ -6,7 +6,8 @@ A program that filters a university schedule to fit the needs of students.
 
 CourseName(CourseCode),Day,StartTime-EndTime
 
-Time should be in 24 hour format. 
+Time should be in 24 hour format.
+Modify any attended days in the code. It uses days Monday - Friday by default.
 
 **Course File Example:**
 
