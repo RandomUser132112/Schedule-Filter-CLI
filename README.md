@@ -1,5 +1,5 @@
 # Schedule-Filter
-A program that filters a university schedule to fit the needs of students.
+A program that gets & filters all possible university schedules to fit the needs of students.
 
 
 **Course File Format**
